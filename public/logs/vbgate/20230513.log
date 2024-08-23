@@ -1,0 +1,6 @@
+[2023-05-13T13:38:23.354109+08:00] Request.INFO: request_getLnAvailableBal {"acntno":"MN040019009100000302"} []
+[2023-05-13T13:38:24.370881+08:00] Response.INFO: response_getLnAvailableBal [{"stdClass":{"acnt_code":"MN040019009100000302","ln_available_amount":"10446500"}}] []
+[2023-05-13T13:38:33.345381+08:00] Request.INFO: request_getIntPayCalc {"acntno":"MN040019009100000302","approve_amount":20000} []
+[2023-05-13T13:38:33.799584+08:00] Response.INFO: response_getIntPayCalc [{"stdClass":{"acntno":"MN040019009100000302","cur_code":"MNT","int_amount":"2524.93","princ_amount":"22524.93"}}] []
+[2023-05-13T13:38:50.085414+08:00] Request.INFO: request_getIntPayCalc {"acntno":"MN040019009100000302","approve_amount":20000} []
+[2023-05-13T13:38:50.543637+08:00] Response.INFO: response_getIntPayCalc [{"stdClass":{"acntno":"MN040019009100000302","cur_code":"MNT","int_amount":"2524.93","princ_amount":"22524.93"}}] []

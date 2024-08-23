@@ -1,0 +1,3 @@
+[2024-01-17T10:52:01.378814+08:00] request.INFO: request {"acntno":"*"} []
+[2024-01-17T17:30:01.913049+08:00] request.INFO: request {"acntno":"9000035881"} []
+[2024-01-17T17:30:02.012512+08:00] response.INFO: response {"acntno":"9000035881","result":"MN150019009000035881"} []

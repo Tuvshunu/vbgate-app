@@ -1,0 +1,2 @@
+[2022-02-25T05:44:18.801069+00:00] request.INFO: request {"acntno":"9900011340"} []
+[2022-02-25T05:44:19.605264+00:00] response.INFO: response {"acntno":"9900011340","result":"address_en: Ulaanbaatar Mongolia Bayanzurkh district 14-r khoroo , 48-r bair, 71 toot, address_mn: Ulaanbaatar Mongolia Bayanzurkh district 14-r khoroo , 48-r bair, 71 toot, phone: 88079103"} []

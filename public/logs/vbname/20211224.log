@@ -1,0 +1,6 @@
+[2021-12-24T03:32:56.890333+00:00] request.INFO: request {"acntno":"9900011340"} []
+[2021-12-24T03:32:58.282390+00:00] response.INFO: response {"acntno":"9900011340","result":"Ulaanbaatar khot Bayanzurkh duureg"} []
+[2021-12-24T03:34:26.599013+00:00] request.INFO: request {"acntno":"9900011340"} []
+[2021-12-24T03:36:26.276882+00:00] request.INFO: request {"acntno":"9900011340"} []
+[2021-12-24T03:36:48.517049+00:00] request.INFO: request {"acntno":"9900011340"} []
+[2021-12-24T03:36:48.885277+00:00] response.INFO: response {"acntno":"9900011340","result":"address_en: Ulaanbaatar Mongolia Bayanzurkh district 14-r khoroo , 48-r bair, 71 toot, address_mn: Улаанбаатар хот Баянзүрх дүүрэг 14-р хороо , 48-р байр, 71 тоот, phone: 88079103"} []

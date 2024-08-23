@@ -1,0 +1,4 @@
+[2023-09-14T14:33:08.366645+08:00] Request.INFO: request_getLnAvailableBal {"acntno":"MN840019009100000414"} []
+[2023-09-14T14:33:09.352956+08:00] Response.INFO: response_getLnAvailableBal [{"stdClass":{"acnt_code":"MN840019009100000414","ln_available_amount":"0"}}] []
+[2023-09-14T14:39:26.133223+08:00] Request.INFO: request_getLnAvailableBal {"acntno":"MN840019009100000414"} []
+[2023-09-14T14:39:26.590755+08:00] Response.INFO: response_getLnAvailableBal [{"stdClass":{"acnt_code":"MN840019009100000414","ln_available_amount":"29724500"}}] []

@@ -1,0 +1,6 @@
+[2024-01-18T12:52:10.822978+08:00] request.INFO: request {"acntno":"9000035881"} []
+[2024-01-18T12:52:10.898241+08:00] response.INFO: response {"acntno":"9000035881","result":"MN150019009000035881"} []
+[2024-01-18T15:18:35.243248+08:00] request.INFO: request {"acntno":"9000035881"} []
+[2024-01-18T15:18:35.310855+08:00] response.INFO: response {"acntno":"9000035881","result":"MN150019009000035881"} []
+[2024-01-18T15:20:50.706135+08:00] request.INFO: request {"acntno":"9000035881"} []
+[2024-01-18T15:20:50.781008+08:00] response.INFO: response {"acntno":"9000035881","result":"MN150019009000035881"} []

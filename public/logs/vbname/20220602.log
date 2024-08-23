@@ -1,0 +1,4 @@
+[2022-06-02T02:04:34.742767+00:00] request.INFO: request {"acntno":"*"} []
+[2022-06-02T02:12:34.775107+00:00] request.INFO: request {"acntno":"*"} []
+[2022-06-02T03:42:31.534922+00:00] request.INFO: request {"acntno":"MN670019009000001577"} []
+[2022-06-02T03:42:31.972775+00:00] response.INFO: response {"acntno":"MN670019009000001577","result":"ЗХУТ"} []

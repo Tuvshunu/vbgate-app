@@ -1,0 +1,2 @@
+[2021-11-04T07:58:33.057485+00:00] request.INFO: request {"mobile":"99123353","msg":"test"} []
+[2021-11-04T07:58:34.241495+00:00] response.INFO: response {"mobile":"99123353","msg":"OK"} []

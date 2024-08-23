@@ -1,0 +1,5 @@
+[2023-03-02T10:15:46.413758+08:00] request.INFO: request {"acntno":"*"} []
+[2023-03-02T15:37:39.749152+08:00] request.INFO: request {"acntno":"MN940019009000023692"} []
+[2023-03-02T15:37:40.312578+08:00] response.INFO: response {"acntno":"MN940019009000023692","result":"JADE YOOK YING NIPP"} []
+[2023-03-02T22:37:28.125698+08:00] request.INFO: request {"acntno":"MN260019009090001728"} []
+[2023-03-02T22:37:28.649728+08:00] response.INFO: response {"acntno":"MN260019009090001728","result":"ЗАМЫН ХӨДӨЛГӨӨНИЙ УДИРДЛАГЫН ТӨВ"} []

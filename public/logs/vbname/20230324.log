@@ -1,0 +1,7 @@
+[2023-03-24T14:32:53.361678+08:00] request.INFO: request {"acntno":"9000007387"} []
+[2023-03-24T14:32:53.923017+08:00] response.INFO: response {"acntno":"9000007387","result":"УЯНГА БАТЗАЯА"} []
+[2023-03-24T14:33:42.472554+08:00] request.INFO: request {"acntno":"9000007387"} []
+[2023-03-24T14:33:42.990575+08:00] response.INFO: response {"acntno":"9000007387","result":"УЯНГА БАТЗАЯА"} []
+[2023-03-24T14:34:01.196886+08:00] request.INFO: request {"acntno":"9000007387"} []
+[2023-03-24T14:34:01.729427+08:00] response.INFO: response {"acntno":"9000007387","result":"УЯНГА БАТЗАЯА"} []
+[2023-03-24T16:57:10.502693+08:00] request.INFO: request {"acntno":"*"} []

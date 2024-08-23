@@ -1,0 +1,7 @@
+[2023-01-31T10:13:16.361349+08:00] request.INFO: request {"acntno":"9060000062"} []
+[2023-01-31T10:13:17.199322+08:00] response.INFO: response {"acntno":"9060000062","result":"ДҮГЭРЖАВ ЗУНДУЙ"} []
+[2023-01-31T10:13:22.202590+08:00] request.INFO: request {"acntno":"9060000062"} []
+[2023-01-31T10:13:22.723760+08:00] response.INFO: response {"acntno":"9060000062","result":"ДҮГЭРЖАВ ЗУНДУЙ"} []
+[2023-01-31T10:13:29.351317+08:00] request.INFO: request {"acntno":"9060000062"} []
+[2023-01-31T10:13:29.836616+08:00] response.INFO: response {"acntno":"9060000062","result":"ДҮГЭРЖАВ ЗУНДУЙ"} []
+[2023-01-31T14:02:05.249387+08:00] request.INFO: request {"acntno":"*"} []

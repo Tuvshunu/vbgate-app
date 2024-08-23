@@ -1,0 +1,6 @@
+[2022-11-14T10:20:19.223103+08:00] request.INFO: request {"acntno":"MN670019009000001577"} []
+[2022-11-14T10:20:19.806807+08:00] response.INFO: response {"acntno":"MN670019009000001577","result":"ЗХУТ"} []
+[2022-11-14T10:20:46.295203+08:00] request.INFO: request {"acntno":"MN670019009000001577"} []
+[2022-11-14T10:20:46.788823+08:00] response.INFO: response {"acntno":"MN670019009000001577","result":"ЗХУТ"} []
+[2022-11-14T10:20:52.580969+08:00] request.INFO: request {"acntno":"MN670019009000001577"} []
+[2022-11-14T10:20:53.045053+08:00] response.INFO: response {"acntno":"MN670019009000001577","result":"ЗХУТ"} []

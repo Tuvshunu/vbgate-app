@@ -1,0 +1,4 @@
+[2023-08-25T15:14:22.372450+08:00] request.INFO: request {"acntno":"MN460019009010012549"} []
+[2023-08-25T15:14:22.825649+08:00] response.INFO: response {"acntno":"MN460019009010012549","result":"НАРАНЦЭЦЭГ ЦЭРЭН"} []
+[2023-08-25T15:14:30.739822+08:00] request.INFO: request {"acntno":"MN330019009100000362"} []
+[2023-08-25T15:14:31.175127+08:00] response.INFO: response {"acntno":"MN330019009100000362","result":"JADE YOOK YING NIPP"} []

@@ -1,0 +1,2 @@
+[2023-04-07T10:00:17.083551+08:00] Request.INFO: request_getIntPayCalc {"acntno":"MN250019009070001704","approve_amount":1300000} []
+[2023-04-07T10:00:17.610822+08:00] Response.INFO: response_getIntPayCalc [{"stdClass":{"acntno":"MN250019009070001704","cur_code":"MNT","int_amount":"62232.6","princ_amount":"1362232.6"}}] []
